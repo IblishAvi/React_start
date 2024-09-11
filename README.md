@@ -1,7 +1,7 @@
 ## COMPONENT
 
 
-Component in React is just like function in JavaScript that return HTML elements.
+Component in React is just like function in JavaScript that return HTML elements.COmponent is the  peace UI .that has its own logic and appearance.  A button can be a small button or as large as  entire page.
 Components are independent and reusable bits of code. They serve the same purpose as JavaScript functions, but work in isolation and return HTML.
 Components come in two types, Class components and Function components, in this tutorial we will concentrate on Function components.
 
